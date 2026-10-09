@@ -1,4 +1,4 @@
-# Thiago Silveira
+
 
 I'm a Computer Engineering student at FING, building my path in software development through coursework and personal projects that help me put what I learn into practice.
 
